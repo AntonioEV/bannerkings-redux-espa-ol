@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<LanguageData id="Español" name="Español" subtitle_extension="es" supported_iso="es,spa,es-es,es-ar,es-mx,es-co,es-cl" under_development="false">
-	<LanguageFile xml_path="ES/std_module_strings_xml.xml" />
-	<LanguageFile xml_path="ES/common_strings.xml" />
-</LanguageData>
